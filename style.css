@@ -1,0 +1,20 @@
+body{
+    padding: 20px;
+}
+h3{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.par{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.sub_par{
+    padding: 0;
+    margin-left: 25px;
+}
+.sub_par li{
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding-left: 15px;
+}
